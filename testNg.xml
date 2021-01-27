@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Cucumber test" verbose="3">
+    <test name="Validate API" parallel="tests" thread-count="1">
+        <parameter name="myName"  value="true"/>
+        <classes>
+            <class name="RunCucumberTest">
+            </class>
+        </classes>
+    </test>
+</suite>

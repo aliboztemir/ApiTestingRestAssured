@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "title": "aut quo modi neque nostrum ducimus",
+      "author": "my name",
+      "id": 81
+    }
+  ],
+  "comments": [
+    {
+      "id": 401,
+      "body": "some comment",
+      "postId": 81
+    }
+  ],
+  "users": [
+    {
+        "id": 9,
+        "name": "Glenna Reichert",
+        "username": "Delphine",
+        "email": "Chaim_McDermott@dana.io"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
